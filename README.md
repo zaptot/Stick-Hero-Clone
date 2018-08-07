@@ -1,6 +1,18 @@
 # Stick-Hero-Clone
+
 The clone of Stick Hero game
 
+## Installing
+
+1. Clone the repo: `git clone https://github.com/zaptot/Stick-Hero-Clone.git`
+
+2. Open it with Unity
+
+3. Go `File -> Build Settings`
+
+3. Switch platform to ios/Android
+
+4. Build it and enjoy!
 
 # Menu
 
